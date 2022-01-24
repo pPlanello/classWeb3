@@ -1,0 +1,8 @@
+realizado por: 
+	Mario Pérez y Pablo Planelló
+
+comentarios:
+	Para el ejercicio 1 se ha colocado un formulario en Home solo si no eres profesor y no estás matriculado
+	Para el ejercicio 2 se ha colocado una sección adicional en evaluaciones solo si eres el profesor
+	Para el ejercicio 3 se ha colocado una sección adicional en calificaciones donde salen botones de busqueda por calificaciones solo si eres el profesor, ya que consideramos que solo el profesor puede realizar una busqueda de las notas de los alumnos por evaluaciones. Estos botones te llevan a una pagina de la web nueva donde aparecen las notas.
+	
